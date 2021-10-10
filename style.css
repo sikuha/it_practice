@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+li{
+    list-style:none;
+}
+
+header{
+    background-color:pink;
+    height:90px;
+}
+header h1{
+    text-align:center;
+    padding:10px;
+}
+.flex-container{
+    display:flex;
+    justify-content:space-around;
+}
